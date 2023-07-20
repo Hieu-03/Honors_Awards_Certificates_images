@@ -11,14 +11,14 @@ Images of Honors, Awards and Certificates
 -
 -
 
-#### b. Software Development Lifecycle 
-![Agile Software Development](/Software Development Lifecycle/Agile Software Development.png "Agile Software Development")
-![Engineering Practices for Building Quality](/Software Development Lifecycle/Engineering Practices for Building Quality.png "Engineering Practices for Building Quality")
-![Lean Software Development](/Software Development Lifecycle/Lean Software Development.png "Lean Software Development")
-![Software Development Processes and Methodologies](/Software Development Lifecycle/Software Development Processes and Methodologies.png "Software Development Processes and Methodologies")
-![specialization](/Software Development Lifecycle/specialization.png "specialization")
+## b. Software Development Lifecycle 
+![Agile](/Software_Development_Lifecycle/Agile.png "Agile")
+![Engineering_Practices_for_Building_Quality](/Software_Development_Lifecycle/Engineering_Practices_for_Building_Quality.png "Engineering_Practices_for_Building_Quality")
+![Lean](/Software_Development_Lifecycle/Lean.png "Lean")
+![Software_Development_Processes and_Methodologies](/Software_Development_Lifecycle/Software_Development_Processes and_Methodologies.png "Software_Development_Processes and_Methodologies")
+![specialization](/Software_Development_Lifecycle/specialization.png "specialization")
 
-#### c. Web Design for Everybody: Basics of Web Development & Coding
+## c. Web Design for Everybody: Basics of Web Development & Coding
 ![Advanced Styling with Responsive Design](/Web Design/Advanced Styling with Responsive Design.png "Advanced Styling with Responsive Design")
 ![Interactivity with JavaScript](/Web Design/Interactivity with JavaScript.png "Interactivity with JavaScript")
 ![Introduction to CSS3](/Web Design/Introduction to CSS3.png "Introduction to CSS3")
@@ -26,14 +26,16 @@ Images of Honors, Awards and Certificates
 ![Web Design for Everybody Capstone](/Web Design/Web Design for Everybody Capstone.png "Web Design for Everybody Capstone")
 ![specialization](/Web Design/specialization.png "specialization")
 
-#### d. Computer Communications
+
+## d. Computer Communications
 ![Fundamentals_of_Network_Communication](/Computer_Communications/Fundamentals_of_Network_Communication.png "Fundamentals_of_Network_Communication")
 ![Packet_Switching_Networks_and_Algorithms](/Computer_Communications/Packet_Switching_Networks_and_Algorithms.png "Packet_Switching_Networks_and_Algorithms")
 ![Peer-to-Peer_Protocols_and_LAN](/Computer_Communications/Peer-to-Peer_Protocols_and_LAN.png "Peer-to-Peer_Protocols_and_LAN")
 ![TCP_IP_and_Advanced_Topics](/Computer_Communications/TCP_IP_and_Advanced_Topics.png "TCP_IP_and_Advanced_Topics")
 ![specialization](/Computer_Communications/specialization.png "specialization")
 
-#### f. Academic Skills for University Success
+
+## f. Academic Skills for University Success
 ![Capstone](/Academic_Skills_for_University_Success/Capstone.png "Capstone")
 ![Communication_Skills](/Academic_Skills_for_University_Success/Communication_Skills.png "Communication_Skills")
 ![Critical_Thinking_Skills](/Academic_Skills_for_University_Success/Critical_Thinking_Skills.png "Critical_Thinking_Skills")
