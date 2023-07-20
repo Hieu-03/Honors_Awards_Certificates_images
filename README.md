@@ -35,8 +35,8 @@ Images of Honors, Awards and Certificates
 
 #### f. Academic Skills for University Success
 ![Capstone](/Academic_Skills_for_University_Success/Capstone.png "Capstone")
-![Communication Skills for University Success](/Academic Skills for University Success/Communication Skills for University Success.png "Communication Skills for University Success")
-![Critical Thinking Skills for University Success](/Academic Skills for University Success/Critical Thinking Skills for University Success.png "Critical Thinking Skills for University Success")
-![Information & Digital Literacy for University Success](/Academic Skills for University Success/Information & Digital Literacy for University Success.png "Information & Digital Literacy for University Success")
-![Problem-Solving Skills for University Success](/Academic Skills for University Success/specialization.png "Problem-Solving Skills for University Success")
-![specialization](/Academic Skills for University Success/specialization.png "specialization")
+![Communication_Skills](/Academic_Skills_for_University_Success/Communication_Skills.png "Communication_Skills")
+![Critical_Thinking_Skills](/Academic_Skills_for_University_Success/Critical_Thinking_Skills.png "Critical_Thinking_Skills")
+![Information_&_Digital_Literacy](/Academic_Skills_for_University_Success/Information_&_Digital_Literacy.png "Information_&_Digital_Literacy")
+![Problem-Solving_Skills](/Academic_Skills_for_University_Success/Problem-Solving_Skills.png "Problem-Solving_Skills")
+![specialization](/Academic_Skills_for_University_Success/specialization.png "specialization")
