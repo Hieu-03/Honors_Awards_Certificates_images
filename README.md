@@ -27,11 +27,11 @@ Images of Honors, Awards and Certificates
 ![specialization](/Web Design/specialization.png "specialization")
 
 #### d. Computer Communications
-![Fundamentals of Network Communication](/Computer Communications/Fundamentals of Network Communication.png "Fundamentals of Network Communication")
-![Packet Switching Networks and Algorithms](/Computer Communications/Packet Switching Networks and Algorithms.png "Packet Switching Networks and Algorithms")
-![Peer-to-Peer Protocols and Local Area Networks](/Computer Communications/Peer-to-Peer Protocols and Local Area Networks.png "Peer-to-Peer Protocols and Local Area Networks")
-![TCP_IP and Advanced Topics](/Computer Communications/TCP_IP and Advanced Topics.png "TCP_IP and Advanced Topics")
-![specialization](/Computer Communications/specialization.png "specialization")
+![Fundamentals_of_Network_Communication](/Computer_Communications/Fundamentals_of_Network_Communication.png "Fundamentals_of_Network_Communication")
+![Packet_Switching_Networks_and_Algorithms](/Computer_Communications/Packet_Switching_Networks_and_Algorithms.png "Packet_Switching_Networks_and_Algorithms")
+![Peer-to-Peer_Protocols_and_LAN](/Computer_Communications/Peer-to-Peer_Protocols_and_LAN.png "Peer-to-Peer_Protocols_and_LAN")
+![TCP_IP_and_Advanced_Topics](/Computer_Communications/TCP_IP_and_Advanced_Topics.png "TCP_IP_and_Advanced_Topics")
+![specialization](/Computer_Communications/specialization.png "specialization")
 
 #### f. Academic Skills for University Success
 ![Capstone](/Academic_Skills_for_University_Success/Capstone.png "Capstone")
