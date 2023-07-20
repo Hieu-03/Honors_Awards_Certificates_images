@@ -15,16 +15,16 @@ Images of Honors, Awards and Certificates
 ![Agile](/Software_Development_Lifecycle/Agile.png "Agile")
 ![Engineering_Practices_for_Building_Quality](/Software_Development_Lifecycle/Engineering_Practices_for_Building_Quality.png "Engineering_Practices_for_Building_Quality")
 ![Lean](/Software_Development_Lifecycle/Lean.png "Lean")
-![Software_Development_Processes and_Methodologies](/Software_Development_Lifecycle/Software_Development_Processes and_Methodologies.png "Software_Development_Processes and_Methodologies")
+![Software_Development_Processes_and_Methodologies](/Software_Development_Lifecycle/Software_Development_Processes_and_Methodologies.png "Software_Development_Processes_and_Methodologies")
 ![specialization](/Software_Development_Lifecycle/specialization.png "specialization")
 
 ## c. Web Design for Everybody: Basics of Web Development & Coding
-![Advanced Styling with Responsive Design](/Web Design/Advanced Styling with Responsive Design.png "Advanced Styling with Responsive Design")
-![Interactivity with JavaScript](/Web Design/Interactivity with JavaScript.png "Interactivity with JavaScript")
-![Introduction to CSS3](/Web Design/Introduction to CSS3.png "Introduction to CSS3")
-![Introduction to HTML5](/Web Design/Introduction to HTML5.png "Introduction to HTML5")
-![Web Design for Everybody Capstone](/Web Design/Web Design for Everybody Capstone.png "Web Design for Everybody Capstone")
-![specialization](/Web Design/specialization.png "specialization")
+![Advanced_Styling](/Web_Design/Advanced_Styling.png "Advanced_Styling")
+![JavaScript](/Web_Design/JavaScript.png "JavaScript")
+![Introduction to CSS3](/Web_Design/CSS3.png "CSS3")
+![Introduction to HTML5](/Web_Design/HTML5.png "HTML5")
+![Capstone](/Web_Design/Capstone.png "Capstone")
+![specialization](/Web_Design/specialization.png "specialization")
 
 
 ## d. Computer Communications
