@@ -2,14 +2,26 @@
 Images of Honors, Awards and Certificates
 ### 1. Honors & Awards
 #### a. Honorable student of semester at FPT university
+![](/Honors_ Awards/].png ""]
+![](/Honors_ Awards/].png ""]
+![](/Honors_ Awards/].png ""]
+![](/Honors_ Awards/].png ""]
+
 
 #### b. Scholarship at FPT university 
+![70% Scholarship](/Honors_ Awards/scholarship].png "Scholarship"]
 
 
 ### 2. Certificates
 #### a. CertNexus Certified Ethical Emerging Technologist
--
--
+![Communicate Effectively about Ethical Challenges in Data-Driven Technologies](/CertNexus_Certified_Ethical_Emerging_Technologist/Communicate_Effectively_about_Ethical_Challenges.png "Communicate_Effectively_about_Ethical_Challenges")
+![Create and Lead an Ethical Data-Driven Organization](/CertNexus_Certified_Ethical_Emerging_Technologist/Create_and_Lead.png "Create_and_Lead")
+![Detect and Mitigate Ethical Risks](/CertNexus_Certified_Ethical_Emerging_Technologist/Detect_and_Mitigate.png "Detect_and_Mitigate")
+![Preparing for Your CertNexus Certification Exam](/CertNexus_Certified_Ethical_Emerging_Technologist/Preparing_for_Exam.png "Preparing_for_Exam")
+![Promote the Ethical Use of Data-Driven Technologies](/CertNexus_Certified_Ethical_Emerging_Technologist/Promote_the_Ethical_Use.png "Promote_the_Ethical_Use")
+![Turn Ethical Frameworks into Actionable Steps](/CertNexus_Certified_Ethical_Emerging_Technologist/Frameworks_into_Steps.png "Frameworks_into_Steps")
+![specialization](/CertNexus_Certified_Ethical_Emerging_Technologist/specialization.png "specialization")
+
 
 ## b. Software Development Lifecycle 
 ![Agile](/Software_Development_Lifecycle/Agile.png "Agile")
@@ -17,6 +29,7 @@ Images of Honors, Awards and Certificates
 ![Lean](/Software_Development_Lifecycle/Lean.png "Lean")
 ![Software_Development_Processes_and_Methodologies](/Software_Development_Lifecycle/Software_Development_Processes_and_Methodologies.png "Software_Development_Processes_and_Methodologies")
 ![specialization](/Software_Development_Lifecycle/specialization.png "specialization")
+
 
 ## c. Web Design for Everybody: Basics of Web Development & Coding
 ![Advanced_Styling](/Web_Design/Advanced_Styling.png "Advanced_Styling")
