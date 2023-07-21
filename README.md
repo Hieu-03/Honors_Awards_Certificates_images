@@ -9,7 +9,7 @@ Images of Honors, Awards and Certificates
 
 
 #### b. Scholarship at FPT university 
-![70% Scholarship](/Honors_Awards/scholarship.png "Scholarship")
+![70% Scholarship](/Honors_Awards/scholarship.jpg "Scholarship")
 
 
 ### 2. Certificates
