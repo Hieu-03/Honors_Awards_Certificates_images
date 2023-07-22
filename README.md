@@ -1,9 +1,14 @@
 # Honors, Awards and Certificates images
 Images of Honors, Awards and Certificates
 ### 1. Honors & Awards
-#### a. Honorable student of semester at FPT university
+#### a. Honorable student of semesters at FPT university
+- Spring 2023
 ![Honors Awards Sping2023](/Honors_Awards/Honors_Awards_Sping2023.jpg "Honors_Awards_Sping2023")
+
+- Fall 2022
 ![Honors Awards Fall2022](/Honors_Awards/Honors_Awards_Fall2022.jpg "Honors_Awards_Fall2022")
+
+- Spring 2022
 ![Honors Awards Spring2022](/Honors_Awards/Honors_Awards_Spring2022.jpg "Honors_Awards_Spring2022")
 
 
