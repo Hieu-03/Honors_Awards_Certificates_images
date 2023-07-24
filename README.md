@@ -27,7 +27,7 @@ Images of Honors, Awards and Certificates
 ![Specialization](/CertNexus_Certified_Ethical_Emerging_Technologist/specialization.png "specialization")
 
 
-## b. Software Development Lifecycle 
+#### b. Software Development Lifecycle 
 ![Agile Software Development](/Software_Development_Lifecycle/Agile.png "Agile")
 ![Engineering Practices for Building Quality Software](/Software_Development_Lifecycle/Engineering_Practices_for_Building_Quality.png "Engineering_Practices_for_Building_Quality")
 ![Lean Software Development](/Software_Development_Lifecycle/Lean.png "Lean")
@@ -35,7 +35,7 @@ Images of Honors, Awards and Certificates
 ![Specialization](/Software_Development_Lifecycle/specialization.png "specialization")
 
 
-## c. Web Design for Everybody: Basics of Web Development & Coding
+#### c. Web Design for Everybody: Basics of Web Development & Coding
 ![Advanced Styling with Responsive Design](/Web_Design/Advanced_Styling.png "Advanced_Styling")
 ![Interactivity with JavaScript](/Web_Design/JavaScript.png "JavaScript")
 ![Introduction to CSS3](/Web_Design/CSS3.png "CSS3")
@@ -44,7 +44,7 @@ Images of Honors, Awards and Certificates
 ![Specialization](/Web_Design/specialization.png "specialization")
 
 
-## d. Computer Communications
+#### d. Computer Communications
 ![Fundamentals of Network Communication](/Computer_Communications/Fundamentals_of_Network_Communication.png "Fundamentals_of_Network_Communication")
 ![Packet Switching Networks and Algorithms](/Computer_Communications/Packet_Switching_Networks_and_Algorithms.png "Packet_Switching_Networks_and_Algorithms")
 ![Peer-to-Peer Protocols and Local Area Networks](/Computer_Communications/Peer-to-Peer_Protocols_and_LAN.png "Peer-to-Peer_Protocols_and_LAN")
@@ -52,10 +52,14 @@ Images of Honors, Awards and Certificates
 ![Specialization](/Computer_Communications/specialization.png "specialization")
 
 
-## f. Academic Skills for University Success
+#### f. Academic Skills for University Success
 ![Academic Skills for University Success: Capstone](/Academic_Skills_for_University_Success/Capstone.png "Capstone")
 ![Communication Skills for University Success](/Academic_Skills_for_University_Success/Communication_Skills.png "Communication_Skills")
 ![Critical Thinking Skills for University Success](/Academic_Skills_for_University_Success/Critical_Thinking_Skills.png "Critical_Thinking_Skills")
 ![Information & Digital Literacy for University Success](/Academic_Skills_for_University_Success/Information_&_Digital_Literacy.png "Information_&_Digital_Literacy")
 ![Problem-Solving Skills for University Success](/Academic_Skills_for_University_Success/Problem-Solving_Skills.png "Problem-Solving_Skills")
 ![Specialization](/Academic_Skills_for_University_Success/specialization.png "specialization")
+
+
+### 3. Microsoft Office Specialist (Office PowerPoint 2013)
+![MOS - Office PowerPoint 2013](/MOS/MOS.jpg "MOS")
